@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_171_17291" fill="white">
+<path d="M4 11H20V20H4V11Z"/>
+</mask>
+<path d="M20 20V21.7H21.7V20H20ZM4 20H2.3V21.7H4V20ZM18.3 11V20H21.7V11H18.3ZM20 18.3H4V21.7H20V18.3ZM5.7 20V11H2.3V20H5.7Z" fill="#1D6CD6" fill-opacity="0.12" mask="url(#path-1-inside-1_171_17291)"/>
+<path d="M20 20V21.7H21.7V20H20ZM4 20H2.3V21.7H4V20ZM18.3 11V20H21.7V11H18.3ZM20 18.3H4V21.7H20V18.3ZM5.7 20V11H2.3V20H5.7Z" fill="black" fill-opacity="0.24" mask="url(#path-1-inside-1_171_17291)"/>
+<path d="M16.4395 4.85L18.7109 10.15H5.28906L7.56049 4.85H16.4395Z" stroke="#1D6CD6" stroke-opacity="0.12" stroke-width="1.7" stroke-linecap="square"/>
+<path d="M16.4395 4.85L18.7109 10.15H5.28906L7.56049 4.85H16.4395Z" stroke="black" stroke-opacity="0.24" stroke-width="1.7" stroke-linecap="square"/>
+</svg>
